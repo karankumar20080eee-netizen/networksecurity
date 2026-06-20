@@ -1,0 +1,15 @@
+[2026-06-20 23:58:01,816]164numexpr.utils- INFO-NumExpr defaulting to 12 threads.
+[2026-06-20 23:58:12,007]1025httpx- INFO-HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[2026-06-20 23:58:12,016]107dagshub- INFO-Accessing as karankumar20080eee-netizen
+[2026-06-20 23:58:14,668]1025httpx- INFO-HTTP Request: GET https://dagshub.com/api/v1/repos/karankumar20080eee-netizen/networksecurity "HTTP/1.1 200 OK"
+[2026-06-20 23:58:15,895]1025httpx- INFO-HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[2026-06-20 23:58:15,898]107dagshub- INFO-Initialized MLflow to track repo "karankumar20080eee-netizen/networksecurity"
+[2026-06-20 23:58:15,900]107dagshub- INFO-Repository karankumar20080eee-netizen/networksecurity initialized!
+[2026-06-20 23:58:17,579]309watchfiles.main- INFO-2 changes detected
+[2026-06-20 23:58:17,941]309watchfiles.main- INFO-1 change detected
+[2026-06-20 23:58:18,852]309watchfiles.main- INFO-1 change detected
+[2026-06-20 23:58:22,334]309watchfiles.main- INFO-1 change detected
+[2026-06-20 23:59:09,165]309watchfiles.main- INFO-1 change detected
+[2026-06-20 23:59:34,685]309watchfiles.main- INFO-1 change detected
+[2026-06-21 00:01:33,536]309watchfiles.main- INFO-1 change detected
+[2026-06-21 00:02:32,933]309watchfiles.main- INFO-1 change detected
